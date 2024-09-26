@@ -1,1 +1,1 @@
-# odin-recipes-REnewed
+Created a recipe page containing 3 recipes
